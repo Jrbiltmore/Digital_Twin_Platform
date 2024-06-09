@@ -1,0 +1,16 @@
+{
+  "sensors": [
+    {
+      "id": "sensor_001",
+      "type": "temperature",
+      "location": "factory_floor",
+      "threshold": 75
+    },
+    {
+      "id": "sensor_002",
+      "type": "vibration",
+      "location": "machine_01",
+      "threshold": 5
+    }
+  ]
+}
